@@ -14,6 +14,10 @@ A delegation responds to a command by invoking another command.
 
 Use this pattern every time something needs to happen in another location.
 
+## Scenario
+
+The scenario for this quickstart is a command to notify an e-commerce buyer through email, but it is delegated from an API to a Worker and in turn again to a specialized email service.
+
 ## What you need to get started
 
 - The [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download) should be installed
