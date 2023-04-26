@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-	<PackageReference Include="MessageHandler.Runtime.AtomicProcessing" Version="4.0.0-beta22" />
+	<PackageReference Include="MessageHandler.Runtime.AtomicProcessing" Version="4.0.0-rc1" />
   </ItemGroup>
 
   <ItemGroup>
